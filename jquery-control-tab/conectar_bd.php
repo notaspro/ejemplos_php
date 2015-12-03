@@ -1,6 +1,10 @@
 <?php
 /*
+<<<<<<< HEAD
 	www.notas-programacion.com
+=======
+	www.notas.programacion.com
+>>>>>>> 3341c51ca6dd63dd30a6577097e96170be4574a7
 	Descripcion:
 	Declara una funcion que permite conectarse a la 
 	base de datos del ejemplo
