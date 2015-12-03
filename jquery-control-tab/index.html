@@ -1,0 +1,45 @@
+<!--
+
+	www.notas.programacion.com
+	Descripcion:
+		Archivo de inicio del ejemplo; Carga hojas de estilos, archivos
+		de javascript y los datos de la BD por medio de Ajax
+	
+	Archivo: index.html
+
+-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <title>Ejemplo con JQuery :: UI Tabs y MySql</title>
+    <!--Hoja de estilo-->
+    <link rel="StyleSheet" type="text/css" href="css/jquery-ui.css" />
+    <link rel="StyleSheet" type="text/css" href="css/css_ejemplo5.css" />
+     
+    <!--Archivos de script de JQuery-->
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/jquery-ui.js"></script>
+    <!--Archivo de script del ejemplo-->
+    <script type="text/javascript" src="js/func_ejemplo5.js"></script>
+ 
+   </head>
+   <body>
+     <br/>
+      
+        <TABLE WIDTH="95%" BORDER="0">
+            <TR>
+                <TD>
+                <!-- Widget Tab -->
+                    <div id="fichass">
+                        <ul>
+                            <li><a href="ajax/listarProductos.php">Productos</a></li>
+                            <li><a href="ajax/listarCategorias.php">Categorias</a></li>
+                        </ul>
+                    </div>                
+                </TD>
+            </TR>
+        </TABLE>      
+ 
+   </body>
+</html>
