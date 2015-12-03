@@ -1,6 +1,5 @@
 <?php
 /*
-<<<<<<< HEAD
 	www.notas-programacion.com
 =======
 	www.notas.programacion.com

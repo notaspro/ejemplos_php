@@ -1,10 +1,6 @@
 <?php
 /*
-<<<<<<< HEAD
 	www.notas-programacion.com
-=======
-	www.notas.programacion.com
->>>>>>> 3341c51ca6dd63dd30a6577097e96170be4574a7
 	Descripcion:
 	Archivo que es llamado mediante una peticion ajax y se encarga
 	de devolver en forma de HTML una tabla con las categorias de la BD	
